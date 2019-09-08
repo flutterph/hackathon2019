@@ -44,11 +44,11 @@ Interested partnering with us for this event? Please reach us at [contact@flutte
 
 <img src="screenshots/responsive_experiment.gif" alt="responsive-experiment-gif" width="200"/>
 
-<img align="left" src="screenshots/responsive_experiment_2.gif" alt="responsive-experiment-gif-2" width="200"/>
+<img src="screenshots/responsive_experiment_2.gif" alt="responsive-experiment-gif-2" width="200"/>
 
 ### IV. Screenshots
 
-#### Desktop
+#### 1. Desktop
 
 ![image-1](screenshots/1.png)
 
@@ -61,19 +61,19 @@ Interested partnering with us for this event? Please reach us at [contact@flutte
 ![image-5](screenshots/5.png)
 
 
-#### Mobile
+#### 2. Mobile
 
-<img align="left" src="screenshots/responsive_1.png" alt="responsive-image-1" width="200"/>
+<img src="screenshots/responsive_1.png" alt="responsive-image-1" width="200"/>
 
 <img align="left" src="screenshots/responsive_2.png" alt="responsive-image-2" width="200"/>
 
-<img align="left" src="screenshots/responsive_3.png" alt="responsive-image-3" width="200"/>
+<img src="screenshots/responsive_3.png" alt="responsive-image-3" width="200"/>
 
 <img align="left" src="screenshots/responsive_4.png" alt="responsive-image-4" width="200"/>
 
-<img align="left" src="screenshots/responsive_5.png" alt="responsive-image-5" width="200"/>
+<img src="screenshots/responsive_5.png" alt="responsive-image-5" width="200"/>
 
-#### Mobile Not Supported
+#### 3. Mobile Not Supported (Before)
 
 <img src="screenshots/responsive_error.png" alt="responsive-image-5" width="200"/>
 
