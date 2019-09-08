@@ -43863,7 +43863,7 @@ $0:function(){this.a.f.fe(3,C.aC,C.aE)},
 $S:0}
 D.CT.prototype={
 V:function(a){var u=null,t=[N.ag]
-return M.Ry(new Q.G(4294901491),new T.cS(C.D,u,u,M.aZ(u,E.tD(T.dL(H.e([M.aZ(u,T.cz(U.fq("https://user-images.githubusercontent.com/20706361/64479079-617f6b80-d1e4-11e9-9271-15bf6293a0d1.png"),C.O),u,u,u,u,u,u,u,u,u),new T.aN(new V.a1(0,0,0,10),u,u),L.au("Flutter Online Hackathon 2019",A.ak(u,u,C.T,u,u,u,u,u,u,u,16,u,C.u,u,u,!0,u,u,u,u,u,u),C.bd),L.au("Flutter for Web is on technical preview. We're doing our best to support responsive widgets on mobile!",A.ak(u,u,u,u,u,u,u,u,u,u,12,u,u,u,u,!0,u,u,u,u,u,u),C.bd),new T.aN(new V.a1(0,0,0,20),u,u),T.dL(H.e([F.qy(C.a0,new D.CU(),"Register",C.m),new T.aN(new V.a1(0,0,0,20),u,u),F.qy(C.m,new D.CV(),"Become a partner",C.a0)],t),C.U,C.aa),new T.aN(new V.a1(0,0,0,50),u,u)],t),C.U,C.aH)),u,u,u,u,u,u,new V.a1(20,0,20,0),u,u),u))}}
+return M.Ry(new Q.G(4294901491),new T.cS(C.D,u,u,M.aZ(u,E.tD(T.dL(H.e([M.aZ(u,T.cz(U.fq("https://user-images.githubusercontent.com/20706361/64479079-617f6b80-d1e4-11e9-9271-15bf6293a0d1.png"),C.O),u,u,u,u,u,u,u,u,u),new T.aN(new V.a1(0,0,0,10),u,u),L.au("Flutter PH Online Hackathon 2019",A.ak(u,u,C.T,u,u,u,u,u,u,u,16,u,C.u,u,u,!0,u,u,u,u,u,u),C.bd),L.au("Flutter for Web is on technical preview. We're doing our best to support responsive widgets on mobile!",A.ak(u,u,u,u,u,u,u,u,u,u,12,u,u,u,u,!0,u,u,u,u,u,u),C.bd),new T.aN(new V.a1(0,0,0,20),u,u),T.dL(H.e([F.qy(C.a0,new D.CU(),"Register",C.m),new T.aN(new V.a1(0,0,0,20),u,u),F.qy(C.m,new D.CV(),"Become a partner",C.a0)],t),C.U,C.aa),new T.aN(new V.a1(0,0,0,50),u,u)],t),C.U,C.aH)),u,u,u,u,u,u,new V.a1(20,0,20,0),u,u),u))}}
 D.CU.prototype={
 $0:function(){},
 $S:0}
