@@ -1,6 +1,6 @@
 ## Flutter Philippines Online Hackathon 2019
 
-This is the deployed build files of the https://flutter.ph/hackathon2019. Flutter/Dart source code will be published soon.
+These are the deployed build files of the https://flutter.ph/hackathon2019. Flutter/Dart source code will be published soon.
 
 ### Event
 
