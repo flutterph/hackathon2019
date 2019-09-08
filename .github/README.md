@@ -73,6 +73,10 @@ Interested partnering with us for this event? Please reach us at [contact@flutte
 
 <img src="screenshots/responsive_5.png" alt="responsive-image-5" width="200"/>
 
+#### Mobile Not Supported
+
+<img src="screenshots/responsive_error.png" alt="responsive-image-5" width="200"/>
+
 ### V. Support
 
 Don't forget to hit that like star!
