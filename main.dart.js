@@ -43758,7 +43758,7 @@ Ga:function(){this.aR(new Z.yQ(this))},
 D8:function(){var u,t=this,s=null,r=t.cx,q=t.e
 if(typeof q!=="number")return q.ak()
 u=[N.ag]
-return G.pK(new T.cS(C.D,s,s,M.aZ(s,T.fE(C.ao,H.e([T.c1(new T.bn(C.aU,s,s,T.OK(M.aZ(s,T.cz(U.fq("https://user-images.githubusercontent.com/20706361/64470904-eb93e980-d17c-11e9-95a1-fd4d8c8641c8.png"),C.O),s,s,s,s,s,s,s,s,700),0.5),s)),T.c1(new T.bn(C.e8,s,s,M.aZ(s,T.cz(U.fq("https://avatars1.githubusercontent.com/u/47053319?s=400&u=faa28fed8002f59147835bb25df5c00f4df2cfe2&v=4"),C.O),s,s,s,s,s,s,new V.a1(0,50,0,0),s,150),s)),T.c1(new T.bn(C.aV,s,s,T.cz(new T.aN(new V.a1(0,0,50,0),T.dL(H.e([L.au("Flutter Online Hackathon 2019",A.ak(s,s,C.T,s,s,s,s,s,s,s,36,s,C.u,s,s,!0,s,s,s,s,s,s),s),L.au("by Flutter Philippines | October 2019",A.ak(s,s,C.p,s,s,s,s,s,s,s,16,s,C.u,s,s,!0,s,s,s,s,s,s),s),new T.aN(new V.a1(0,0,0,50),s,s),L.au("With $2000+ worth of prizes!",A.ak(s,s,C.aO,s,s,s,s,s,s,s,54,s,C.u,s,s,!0,s,s,s,s,s,s),s),new T.aN(new V.a1(0,0,0,10),s,s),T.hs(H.e([F.qy(C.a0,new Z.yD(),"Register",C.m),new T.aN(new V.a1(0,0,20,0),s,s),F.qy(C.m,new Z.yE(),"Become a partner",C.a0)],u),C.U,C.aa,C.a4),new T.aN(new V.a1(0,0,0,30),s,s),L.au("Be part of the first ever Flutter Hackathon here in the Philippines!\nOur goal is to help teams, developers, and companies\ndevelop and ship apps using Flutter/Dart.",A.ak(s,s,C.p,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s),s),new T.aN(new V.a1(0,0,0,30),s,s),new F.A3(s),new T.aN(new V.a1(0,0,0,10),s,s),new T.A2(s)],u),C.a7,C.aH),s),C.O),s)),T.c1(new T.bn(C.aT,s,s,new G.fl(C.bq,C.p,new Z.yF(t),s),s))],u),C.am),s,s,s,s,s,s,s,s,q/1.25),s),t.ch,r)},
+return G.pK(new T.cS(C.D,s,s,M.aZ(s,T.fE(C.ao,H.e([T.c1(new T.bn(C.aU,s,s,T.OK(M.aZ(s,T.cz(U.fq("https://user-images.githubusercontent.com/20706361/64470904-eb93e980-d17c-11e9-95a1-fd4d8c8641c8.png"),C.O),s,s,s,s,s,s,s,s,700),0.5),s)),T.c1(new T.bn(C.e8,s,s,M.aZ(s,T.cz(U.fq("https://avatars1.githubusercontent.com/u/47053319?s=400&u=faa28fed8002f59147835bb25df5c00f4df2cfe2&v=4"),C.O),s,s,s,s,s,s,new V.a1(0,50,0,0),s,150),s)),T.c1(new T.bn(C.aV,s,s,T.cz(new T.aN(new V.a1(0,0,50,0),T.dL(H.e([L.au("Flutter Online Hackathon 2019",A.ak(s,s,C.T,s,s,s,s,s,s,s,36,s,C.u,s,s,!0,s,s,s,s,s,s),s),L.au("by Flutter Philippines | October 2019",A.ak(s,s,C.p,s,s,s,s,s,s,s,16,s,C.u,s,s,!0,s,s,s,s,s,s),s),new T.aN(new V.a1(0,0,0,50),s,s),L.au("With $2000+ worth of prizes!",A.ak(s,s,C.aO,s,s,s,s,s,s,s,54,s,C.u,s,s,!0,s,s,s,s,s,s),s),new T.aN(new V.a1(0,0,0,10),s,s),T.hs(H.e([F.qy(C.a0,new Z.yD(),"Register",C.m),new T.aN(new V.a1(0,0,20,0),s,s),F.qy(C.m,new Z.yE(),"Become a partner",C.a0)],u),C.U,C.aa,C.a4),new T.aN(new V.a1(0,0,0,30),s,s),L.au("Be part of the first-ever Flutter Hackathon here in the Philippines!\nOur goal is to help teams, developers, and companies\ndevelop and ship apps using Flutter/Dart.",A.ak(s,s,C.p,s,s,s,s,s,s,s,16,s,s,s,s,!0,s,s,s,s,s,s),s),new T.aN(new V.a1(0,0,0,30),s,s),new F.A3(s),new T.aN(new V.a1(0,0,0,10),s,s),new T.A2(s)],u),C.a7,C.aH),s),C.O),s)),T.c1(new T.bn(C.aT,s,s,new G.fl(C.bq,C.p,new Z.yF(t),s),s))],u),C.am),s,s,s,s,s,s,s,s,q/1.25),s),t.ch,r)},
 Dj:function(){var u,t,s=this,r=null,q=s.cy,p=s.e
 if(typeof p!=="number")return p.ak()
 u=new Q.aT(10,10)
@@ -43821,7 +43821,7 @@ Z.yD.prototype={
 $0:function(){},
 $S:0}
 Z.yE.prototype={
-$0:function(){},
+$0:function(){window.location.href="http://bit.ly/flutterph-hackathon2019-sponsors"},
 $S:0}
 Z.yF.prototype={
 $0:function(){this.a.f.fe(1,C.aC,C.aE)},
