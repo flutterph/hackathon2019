@@ -43868,7 +43868,7 @@ D.CU.prototype={
 $0:function(){},
 $S:0}
 D.CV.prototype={
-$0:function(){},
+$0:function(){window.location.href="http://bit.ly/flutterph-hackathon2019-sponsors"},
 $S:0}
 N.bE.prototype={
 gp:function(a){return this.b},
