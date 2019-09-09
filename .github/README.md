@@ -29,6 +29,13 @@
 <img src="logos/gdgph.png" alt="gdgph" width="200"/>
 
 <br>
+<br>
+
+<img src="logos/freelancer.png" alt="gdgph" width="200"/>
+
+<br>
+
+<br>
 
 <img src="logos/recruitday.png" alt="recruitday" width="200"/>
 
