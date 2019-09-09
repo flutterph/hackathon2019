@@ -86,7 +86,7 @@ Interested partnering with us for this event? Please reach us at [contact@flutte
 
 ### V. Support
 
-Don't forget to hit that like star!
+Don't forget to hit that star button!
 
 Feel free to follow us on our community groups, please visit:
 https://flutter.ph
