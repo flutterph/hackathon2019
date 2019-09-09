@@ -43865,7 +43865,7 @@ p=L.ax("Our Event Partners",r,A.an(r,r,C.q,r,r,r,r,r,r,r,r,r,C.u,r,r,!0,r,r,r,r,
 u=F.ad(q,!1).a.a
 if(typeof u!=="number")return u.H()
 u=u>800?175:130
-u=M.b3(r,T.cA(U.et("https://user-images.githubusercontent.com/20706361/64491600-e9c14780-d29c-11e9-863e-c76c179e891b.png"),C.M),r,r,r,r,r,r,r,r,u)
+u=M.b3(r,T.cA(U.et("https://user-images.githubusercontent.com/20706361/64534132-745e8100-d347-11e9-909b-e554eb4c5f23.png"),C.M),r,r,r,r,r,r,r,r,u)
 t=F.ad(q,!1).a.a
 if(typeof t!=="number")return t.H()
 t=t>800?175:130
