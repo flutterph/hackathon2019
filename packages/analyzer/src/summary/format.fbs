@@ -429,7 +429,9 @@ enum LinkedNodeKind : byte {
 
   withClause,
 
-  yieldStatement
+  yieldStatement,
+
+  extensionOverride
 }
 
 /// Kinds of [LinkedNodeType]s.
@@ -1961,6 +1963,8 @@ table LinkedNode {
 
   variantField_20:string (id: 20);
 
+  variantField_39:[LinkedNodeType] (id: 39);
+
   flags:uint (id: 18);
 
   variantField_1:string (id: 1);
@@ -2836,6 +2840,10 @@ table UnlinkedInformativeData {
   variantField_6:uint (id: 6);
 
   variantField_5:uint (id: 5);
+
+  /// If the parameter has a default value, the source text of the constant
+  /// expression in the default value.  Otherwise the empty string.
+  variantField_10:string (id: 10);
 
   variantField_1:uint (id: 1);
 
