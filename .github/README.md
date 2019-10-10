@@ -4,14 +4,19 @@
 
 ### I. Event
 
+#### Register
+
+Registration link:
+http://bit.ly/flutterph-hackathon-2019
+
 #### Manila
 * **September 24, 2019** - Study Jam #1: Everything is a Widget, Flutter Animations
 
-* **October 1, 2019** - Study Jam #2: State Management, RESTful APIs in Flutter
+* **October 1, 2019** - Study Jam #2: State Management, Material Design + Codelabs
 
 #### Cebu
 
-* TBD
+* **October 5, 2019** - Save Hours of Development Time Through Abstraction
 
 * TBD
 
