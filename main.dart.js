@@ -43648,7 +43648,7 @@ m=F.Z(a2,!1).a.a
 if(typeof m!=="number")return m.D()
 m=m>800?1.75:1.5
 m=L.av("Gather a team of 4* creative thinkers",a1,A.al(a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,a1,C.u,a1,a1,!0,a1,a1,a1,a1,a1,a1),a1,m)
-l=L.av("*Minimum of 2 and maximum of 4 members.",a1,A.al(a1,a1,C.r,a1,a1,a1,a1,a1,a1,a1,12,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1),a1,a1)
+l=L.av("*Minimum of 1 and maximum of 4 members.",a1,A.al(a1,a1,C.r,a1,a1,a1,a1,a1,a1,a1,12,a1,a1,a1,a1,!0,a1,a1,a1,a1,a1,a1),a1,a1)
 k=F.Z(a2,!1).a.a
 if(typeof k!=="number")return k.D()
 k=k>800?1.25:1
